@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nolladi
-- 👀 I’m interested in AI technologies , C#,Python,Javascript
+- 👀 I’m interested in AI technologies , C, C++, C#, Python
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :noll.adam28@gmail.com
